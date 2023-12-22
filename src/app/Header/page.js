@@ -1,13 +1,13 @@
 import React from "react";
 import Image from "next/image";
 
-import companyLogo from '../Image/Logo.png';
+import companyLogo from "../Image/Logo.png";
 
 export default function Navbar() {
   return (
     <div className="flex space justify-between bg-slate-50 px-24">
       <div>
-        <Image src={companyLogo} width={250} height={180} />
+        <Image src={companyLogo} alt="" width={250} height={180} />
       </div>
       <div className="flex  space-x-10 pl-10 pr-4 text-black place-items-center	">
         <div className=" hover:bg-slate-200">About Us</div>
