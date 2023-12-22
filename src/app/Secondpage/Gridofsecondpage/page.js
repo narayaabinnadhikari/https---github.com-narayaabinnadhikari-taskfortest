@@ -13,28 +13,28 @@ export default function Griddisplay() {
         </h2>
         <p className="p-2">
           Welcome to the transformative journey with The Astronova Foundation
-          Nepal’s Student Ambassador Program (SAP). This unique program is
+          Nepal&apos;s Student Ambassador Program (SAP). This unique program is
           designed to empower school and university students to make a real
           impact on the world while enhancing their own skills and experiences.
         </p>
       </div>
       <div className="p-4">
-        <Image src={groupphoto} className="rounded-[20px]" />
+        <Image src={groupphoto} alt="" className="rounded-[20px]" />
       </div>
 
       <div className="col-span-2  p-4">
         <h2 className="font-semibold text-2xl p-2">About the Program: </h2>
         <p className="p-2">
           {" "}
-          As a Student Ambassador, you'll have the opportunity to: Represent the
-          Foundation: Become the face of The Astronova Foundation Nepal,
-          embodying its spirit and values in your community and beyond. Engage
-          in Meaningful Activities: Participate in a variety of activities
-          designed to foster personal and professional growth. From community
-          outreach to collaborative projects, you'll be at the forefront of
-          positive change. Develop Leadership Skills: Hone your leadership
-          abilities by taking on responsibilities that contribute to real-life
-          problem-solving and social impact.
+          As a Student Ambassador, you&apos;ll have the opportunity to:
+          Represent the Foundation: Become the face of The Astronova Foundation
+          Nepal, embodying its spirit and values in your community and beyond.
+          Engage in Meaningful Activities: Participate in a variety of
+          activities designed to foster personal and professional growth. From
+          community outreach to collaborative projects, you&aposll be at the
+          forefront of positive change. Develop Leadership Skills: Hone your
+          leadership abilities by taking on responsibilities that contribute to
+          real-life problem-solving and social impact.
         </p>
       </div>
 
